@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martial AMOVIN, PhD student at the ERIC laboratory of Université Lyon 2.
-- 👀 My main research interest are outlier detection, functional data analysis, clustering.
+- 👀 My main research interest are outlier detection, functional data analysis, clustering...
 - 🌱 
 - 💞️
 - 📫 How to reach me: e-mail me at martial.amovin@gmail.com
