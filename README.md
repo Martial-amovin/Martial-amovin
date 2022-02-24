@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martial AMOVIN, PhD student at the ERIC laboratory of Université Lyon 2.
+- 👋 Hi, I’m Martial AMOVIN, PhD student at the ERIC laboratory of Université Lyon 2. CIFRE grant financed by Arpege Master K
 - 👀 My main research interest are outlier detection, functional data analysis, clustering...
 - 🌱 
 - 💞️
